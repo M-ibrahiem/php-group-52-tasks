@@ -82,7 +82,22 @@
         var_dump( $countryList,"<br>", $stateList["CA"]["NS"],"<br>",$stateList["US"]["KS"]);
 
         // ! part 2 
-        //*I dont under stand
+        //*I dont under stand  but i try 
+
+       /* 
+       $max_int =  max(10, 20, -40, 30, 50)  ;
+
+        $arr = [];
+        $arr[1] = 'last name'; 
+
+        $arr[ $max_int ] = 'this is max of array '; 
+
+        $arr[0] = 'first name'; 
+
+        $arr[]  = 'this may be at the last of array'; 
+        print_r($arr); 
+        */
+
 
        
 
