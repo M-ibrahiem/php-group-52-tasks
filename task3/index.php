@@ -81,6 +81,11 @@
         // echo "<br>";
         var_dump( $countryList,"<br>", $stateList["CA"]["NS"],"<br>",$stateList["US"]["KS"]);
 
+        // ! part 2 
+        //*I dont under stand
+
+       
+
 
 
 
